@@ -1,1 +1,1 @@
-# GithubTraining
+# GithubTraining - Week 1
